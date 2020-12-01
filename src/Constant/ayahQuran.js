@@ -1,0 +1,98 @@
+export default [
+  {
+    id: '1',
+    nameAyah: 'Al-Fatihah',
+    ayah: 7,
+    jenisAyah: 'Makkiyah',
+  },
+  {
+    id: '94',
+    nameAyah: 'Al-Insyirah',
+    ayah: 8,
+    jenisAyah: 'Makkiyah',
+  },
+  {
+    id: '95',
+    nameAyah: 'At-Tin',
+    ayah: 8,
+    jenisAyah: 'Makkiyah',
+  },
+  {
+    id: '97',
+    nameAyah: 'Al-Qadr',
+    ayah: 5,
+    jenisAyah: 'Makkiyah',
+  },
+  {
+    id: '102',
+    nameAyah: 'At-Takasur',
+    ayah: 8,
+    jenisAyah: 'Makkiyah',
+  },
+  {
+    id: '103',
+    nameAyah: 'Al-Asr',
+    ayah: 3,
+    jenisAyah: 'Makkiyah',
+  },
+  {
+    id: '105',
+    nameAyah: 'Al-Fil',
+    ayah: 5,
+    jenisAyah: 'Makkiyah',
+  },
+  {
+    id: '106',
+    nameAyah: 'Quraisy',
+    ayah: 4,
+    jenisAyah: 'Makkiyah',
+  },
+  {
+    id: '107',
+    nameAyah: 'Al-Ma`un',
+    ayah: 7,
+    jenisAyah: 'Makkiyah',
+  },
+  {
+    id: '108',
+    nameAyah: 'Al-Kausar',
+    ayah: 3,
+    jenisAyah: 'Makkiyah',
+  },
+  {
+    id: '109',
+    nameAyah: 'Al-Kafirun',
+    ayah: 6,
+    jenisAyah: 'Makkiyah',
+  },
+  {
+    id: '110',
+    nameAyah: 'An-Nasr',
+    ayah: 3,
+    jenisAyah: 'Makkiyah',
+  },
+  {
+    id: '111',
+    nameAyah: 'Al-Lahab',
+    ayah: 5,
+    jenisAyah: 'Makkiyah',
+  },
+  {
+    id: '112',
+    nameAyah: 'Al-Ikhlas',
+    ayah: 4,
+    jenisAyah: 'Makkiyah',
+  },
+  {
+    id: '113',
+    nameAyah: 'Al-Falaq',
+    ayah: 5,
+    jenisAyah: 'Makkiyah',
+  },
+  {
+    id: '114',
+    nameAyah: 'An-Nas',
+    ayah: 6,
+    jenisAyah: 'Makkiyah',
+  },
+];
